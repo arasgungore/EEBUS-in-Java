@@ -1,5 +1,7 @@
 # EEBUS-in-Java
 
+![EEBUS Logo](https://github.com/arasgungore/EEBUS-in-Java/blob/main/assets/eebus_logo.png)
+
 Implementation of SHIP and SPINE protocols of the EEBUS protocol suite with Java.
 
 
