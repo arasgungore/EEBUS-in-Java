@@ -12,7 +12,7 @@ Java implementation of the EEBUS protocol suite which provides support for the S
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Acknowledgements](#acknowledgements)
 - [Author](#author)
 
 
@@ -170,7 +170,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 
-## Acknowledgments
+## Acknowledgements
 
 This Java implementation is inspired by the Go-based EEBUS communication framework [go_eebus](https://github.com/LMF-DHBW/go_eebus).
 
