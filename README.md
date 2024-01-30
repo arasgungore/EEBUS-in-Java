@@ -2,7 +2,7 @@
 
 ![EEBUS Logo](https://github.com/arasgungore/EEBUS-in-Java/blob/main/assets/eebus_logo.png)
 
-This Java implementation of the EEBUS protocol suite provides support for the SHIP and SPINE protocols. The EEBUS protocols facilitate efficient communication among smart home IoT devices, allowing seamless integration regardless of device brand or type. This open-source framework aims to offer a future-proof solution applicable to various environments and applications.
+Java implementation of the EEBUS protocol suite which provides support for the SHIP and SPINE protocols. The EEBUS protocols facilitate efficient communication among smart home IoT devices, allowing seamless integration regardless of device brand or type. This open-source framework aims to offer a future-proof solution applicable to various environments and applications.
 
 
 
